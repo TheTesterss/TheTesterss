@@ -1,16 +1,16 @@
-## Hi there 👋
+```javascript
+const aboutMe = "Who cares ?"
+```
 
-<!--
-**TheTesterss/TheTesterss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<a href="https://github.com/Testers7777">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheTesterss&theme=dark&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheTesterss&theme=dark&layout=compact&show_icons=true"/>
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<img height="180em" src="https://github-profile-trophy.vercel.app/?username=TheTesterss&rank=SECRET,SSS,SS,S,AAA,AA,A,,C,B&no-frame=true"/>
+
+---
