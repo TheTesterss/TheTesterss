@@ -1,5 +1,5 @@
 ```java
-str aboutMe = "Who cares ?"
+String aboutMe = "Who cares ?"
 ```
 
 ---
