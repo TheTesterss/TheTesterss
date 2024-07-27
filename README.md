@@ -1,5 +1,5 @@
-```java
-String aboutMe = "Who cares ?"
+```javascript
+const aboutMe = "Who cares ?"
 ```
 
 ---
