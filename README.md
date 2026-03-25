@@ -1,6 +1,6 @@
 # 🏄‍♂️ TheTesterss
 
-My name's Morgan Jaouen. I'm from Bretagne and I currently study in Poitiers in CPGE (MP2I) in Camille Guérin's college. Fan of numeric and computer science since 5 years alread, I, for a long time, loved touched rest apis (to create/use) for simples projects. Since few years I use github to store my projects and git to versionned them to never loose them. I made lot of python during classes but also at home, javascript (NodeJS) and typescript by myself, currently I do go in some projects but mostly focused on Ocaml and C for school.
+My name's Morgan Jaouen. I'm from Bretagne and I currently study in Poitiers in CPGE (MP2I) in Camille Guérin's college. Fan of numeric and computer science since 5 years already, I, for a long time, loved touched rest apis (to create/use) for simples projects. Since few years I use github to store my projects and git to versionned them to never loose them. I made lot of python during classes but also at home, javascript (NodeJS) and typescript by myself, currently I do go in some projects but mostly focused on Ocaml and C for school.
 
 <p align="left">
     <a href="https://github.com/TheTesterss?tab=followers">
