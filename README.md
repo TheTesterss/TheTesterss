@@ -1,6 +1,6 @@
 # 🏄‍♂️ TheTesterss
 
-I'm a french developer, mainly focused on node.js (typescript) and python. I still try new languages such as: go, java... Currently in college, in last year. My goal is to become a data scientist or work on quantum compunter. Currently working on my own interpreted language (from typescript), not to make it popular, but only to train my skills and maybe increase them a way more. I started coding on June 2022 on replit, making my first programs. I learned html, css, javascript and started node.js to make rest apis. I still use them and continue making project.
+My name's Morgan Jaouen. I'm from Bretagne and I currently study in Poitiers in CPGE (MP2I) in Camille Guérin's college. Fan of numeric and computer science since 5 years alread, I, for a long time, loved touched rest apis (to create/use) for simples projects. Since few years I use github to store my projects and git to versionned them to never loose them. I made lot of python during classes but also at home, javascript (NodeJS) and typescript by myself, currently I do go in some projects but mostly focused on Ocaml and C for school.
 
 <p align="left">
     <a href="https://github.com/TheTesterss?tab=followers">
